@@ -4,8 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        kanit: ["Kanit", "sans-serif"],
-        inter: ["Inter", "sans-serif"],
+        pop: ["Poppins", "sans-serif"],
       },
       colors: {
         bg: "#FEF7E3",
