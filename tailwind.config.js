@@ -10,6 +10,7 @@ export default {
         bg: "#FEF7E3",
         primary: "#FFFFFF",
         secondary: "#1D1F16",
+        btnColor: "#D6FF2F",
       },
     },
   },
