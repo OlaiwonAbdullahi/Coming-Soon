@@ -4,7 +4,7 @@ const Form = () => {
       <div className="basis-2/3 md:w-96 w-full h-12 items-center bg-primary p-2 rounded-md border border-secondary border-r-4 border-b-4">
         <input
           type="text"
-          placeholder="Your Email Address"
+          placeholder="Your Email Address ..."
           className="text-sm text-secondary h-8 items-center w-full placeholder:text-secondary focus:outline-none"
         />
       </div>
